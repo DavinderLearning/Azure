@@ -1,3 +1,7 @@
+#Setup 
+#This code was generated with VSCode 
+#To run a code sniplet hightlight segment of code and hit F8
+
 az login
 
 #create me a resource group
